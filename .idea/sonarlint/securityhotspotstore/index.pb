@@ -7,8 +7,6 @@ B
 tailwind.config.js,0/9/0918cbb76f2c44f223706cec9d31a32cd1177ce4
 >
 next.config.js,8/1/811a6d5a2e04fadb44d8eec365f2fa8af5c4facf
-4
-.env,3/c/3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
 A
 utils/database.js,c/5/c568ae622747029e7ccb767096a3a5aae254f9a6
 B
@@ -21,7 +19,5 @@ G
 app/api/prompt/route.js,3/f/3f37ef5452d52b811495df712bf2204bee286629
 @
 models/prompt.js,4/c/4cdfec7ef16240d451463ac8731b27d61ca500b1
-C
-components/Feed.jsx,f/2/f2de50bae3cfa5ee1114cde10557d65f5d65e442
 Q
 !app/api/users/[id]/posts/route.js,a/e/ae99391e558147ff5256b2e2abc2e1ab085d7408
